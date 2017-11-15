@@ -1,0 +1,23 @@
+body{
+  margin:0px;background:#333;
+}
+header{
+  padding:.5vw;
+  font-size:0;
+  display:flex;
+  flex-flow: row wrap;
+}
+header div{
+  flex:auto;
+  width:200px;
+  margin:.5vw;
+  border:10px solid red;
+  padding: 0px;
+  
+}
+
+header div img{
+  width:100%;
+  height:auto;
+  
+}
